@@ -1,0 +1,19 @@
+{
+  "FilePath": "c:\\Users\\grund\\Documents\\GitHub\\Visual-Studio-Course\\Music_1\\Music_1\\Music_1.csproj",
+  "Configuration": {
+    "ConfigurationName": "MVC-3.0",
+    "LanguageVersion": "3.0",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-3.0"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 900
+  },
+  "RootNamespace": "Music_1",
+  "Documents": [],
+  "SerializationFormat": "0.2"
+}
